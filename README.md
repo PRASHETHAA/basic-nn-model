@@ -61,7 +61,7 @@ Evaluate the model with the testing data.
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
-data1 = pd.read_csv('Data22.csv')
+data1 = pd.read_csv('exp1.csv')
 data1.head()
 X = data1[['input']].values
 X

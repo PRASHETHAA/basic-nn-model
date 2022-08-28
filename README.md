@@ -13,7 +13,7 @@ First import the libraries which we will going to use and Import the dataset and
 
 ## Neural Network Model
 
-![image](https://user-images.githubusercontent.com/75234942/187088636-af03f1d8-8707-4fd7-835f-ea4623173ab6.png)
+![image](https://user-images.githubusercontent.com/75234942/187088677-90eab090-03e2-46f9-ad99-3240f9753719.png)
 
 
 

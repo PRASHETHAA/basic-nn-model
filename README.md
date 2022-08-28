@@ -11,6 +11,14 @@ Regression helps in establishing a relationship between a dependent variable and
 
 First import the libraries which we will going to use and Import the dataset and check the types of the columns and Now build your training and test set from the dataset Here we are making the neural network 3 hidden layer with activation layer as relu and with their nodes in them. Now we will fit our dataset and then predict the value.
 
+
+
+
+
+
+
+
+
 ## Neural Network Model
 
 ![image](https://user-images.githubusercontent.com/75234942/187088677-90eab090-03e2-46f9-ad99-3240f9753719.png)

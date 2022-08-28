@@ -80,7 +80,8 @@ r(Y_test,preds)
 ```
 ## Dataset Information
 
-![image](https://user-images.githubusercontent.com/75234942/187087233-49ec23b8-d268-4205-b9aa-2fd7806aa973.png)
+![image](https://user-images.githubusercontent.com/75234942/187087432-f583dd0b-74f1-4ea3-98bb-ba54a7b3fc7b.png)
+
 
 
 

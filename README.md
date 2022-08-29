@@ -9,7 +9,7 @@ Neural networks consist of simple input/output units called neurons (inspired by
 
 Regression helps in establishing a relationship between a dependent variable and one or more independent variables. Regression models work well only when the regression equation is a good fit for the data. Most regression models will not fit the data perfectly. Although neural networks are complex and computationally expensive, they are flexible and can dynamically pick the best type of regression, and if that is not enough, hidden layers can be added to improve prediction.
 
-First import the libraries which we will going to use and Import the dataset and check the types of the columns and Now build your training and test set from the dataset Here we are making the neural network 3 hidden layer with activation layer as relu and with their nodes in them. Now we will fit our dataset and then predict the value.
+First import the libraries that are necessary.Import the dataset and check the types of the columns.Now build your training and test set from the dataset.Networks typically consists of input, hidden and output layer.Here we are making the neural network 2 hidden layer with activation layer as relu and with their nodes in them.There are 4 neurons in both the hidden layers.All the neurons in the same layer are connected to each neurons in the previous layer.Now we will fit our dataset and then predict the value.
 
 
 
